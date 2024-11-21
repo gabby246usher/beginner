@@ -1,0 +1,37 @@
+img {
+  width: 200px;
+  height: 150px;
+}
+
+body {
+  /* background-color: rgb(71, 172, 255); */
+  text-align: center;
+}
+.search {
+  height: 34px;
+  border-radius: 10px;
+  border: none;
+  padding: 5px;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+  display: inline-block;
+  padding: 5px;
+}
+
+.home {
+  background-color: rgb(136, 58, 58);
+}
+.about {
+  background-color: rgb(160, 70, 245);
+}
+
+.gallery {
+  background-color: rgb(38, 255, 255);
+}
+
+.project {
+  background-color: rgb(238, 210, 49);
+}
